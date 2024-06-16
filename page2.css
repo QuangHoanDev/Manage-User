@@ -1,0 +1,47 @@
+main{
+    margin-top: 10%;
+}
+main h3{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3 {
+    margin: 0;
+}
+header{
+    background-color: rgb(66, 66, 203);
+    color: white;
+}
+#image{
+    width: 50%;
+    height: auto;
+}
+#content{
+    margin-top:5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#information{
+    margin-top: 10%;
+}
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+label {
+    width: 100px; /* Adjust this width to fit your design */
+    margin-right: 10px; /* Space between label and input */
+    text-align: right; /* Align label text to the right */
+}
+
+input {
+    flex: 1;
+    padding: 5px;
+}
